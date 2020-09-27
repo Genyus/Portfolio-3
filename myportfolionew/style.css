@@ -1,0 +1,14 @@
+.h1 {
+  text-align: center;
+}
+
+.borderwhite {
+  border-bottom-style: solid;
+  color: white;
+}
+
+.border {
+  border-bottom-style: dotted;
+  color: #bb97b2;
+}
+/*# sourceMappingURL=style.css.map */
