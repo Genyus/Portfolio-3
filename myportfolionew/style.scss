@@ -1,4 +1,33 @@
-.h1 {text-align: center;
+.topnav {
+    background-color: rgb(255, 255, 255);
+    overflow: hidden;
+}
+
+.topnav a {
+    float: left;
+    color: #000000;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color: #f56bd2;
+    color: white;
+}
+.topnav a.active {
+    background-color: #f56bd2;
+    color: white;
+}
+
+
+.h1 {color: lightseagreen;
+    text-align: center;
+}
+
+.h3 {color: black;
+    text-align: center;
 }
 
 .borderwhite {
